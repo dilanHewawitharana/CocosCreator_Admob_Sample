@@ -1,4 +1,4 @@
-# Foobar
+# CocosCreator Admob Demo
 
 This is a sample mobile app that demonstrate how to configure admob for CocosCreator project.
 
