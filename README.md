@@ -24,3 +24,4 @@ This is a sample mobile app that demonstrate how to configure admob for CocosCre
 * https://docs.sdkbox.com/en/qa/integration-admob-to-creator/
 
 
+ 
